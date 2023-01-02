@@ -1,1 +1,2 @@
 # landing-page
+A simple web page made for the foundation course on the Odin Project, The project assignment is Landing Page, The web page designed using HTML, CSS and specially CSS Flex Box layout model. The objective of assignment is to master the CSS Flex Box layout model.
