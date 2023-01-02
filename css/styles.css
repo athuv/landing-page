@@ -116,8 +116,8 @@ a {
 }
 
 button {
-    background-color: #D5CE58;
-    color: #104210;
+    background-color: #104210;
+    color: #D5CE58;
     padding: 6px;
     border: none;
     border-radius: 8px;
@@ -179,6 +179,16 @@ button {
     gap: 95px;
     align-items: center;
     color: #D5CE58;
+}
+
+.join-us-right button {
+    background-color: #D5CE58;
+    color: #104210;
+    padding: 6px;
+    border: none;
+    border-radius: 8px;
+    font-size: 30px;
+    width: 180px;
 }
 
 .footer {
